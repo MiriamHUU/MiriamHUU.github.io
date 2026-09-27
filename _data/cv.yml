@@ -1,0 +1,112 @@
+cv:
+  name: Shimin (Miriam) Hu
+  label: PhD Student, Cognition and Cognitive Neuroscience
+  location: Amherst, MA
+
+  social_networks:
+    - network: GitHub
+      username: MiriamHUU
+    - network: LinkedIn
+      username: shiminhuu
+
+  sections:
+    Education:
+      - institution: University of Massachusetts Amherst
+        location: Amherst, MA, USA
+        area: Cognition and Cognitive Neuroscience
+        studyType: PhD
+        start_date: 2024
+        end_date: 2029 (expected)
+        highlights:
+          - Research on visual perception and decision-making, using numerosity perception as a model system with behavioral experiments and EEG.
+
+      - institution: London School of Economics and Political Science
+        location: London, UK
+        area: Behavioural Science
+        studyType: MSc
+        start_date: 2020
+        end_date: 2021
+
+      - institution: University of Nottingham Ningbo China
+        location: Ningbo, China
+        area: International Business Economics
+        studyType: BSc
+        start_date: 2016
+        end_date: 2020
+
+    Experience:
+      - company: University of Massachusetts Amherst
+        position: PhD Student
+        location: Amherst, MA, USA
+        start_date: Aug 2024
+        end_date: present
+        highlights:
+          - Study how people transform perceptual signals into abstract representations and use them to guide judgments and decisions, focusing on perceptual representation, evidence integration, and decision-making under uncertainty.
+
+      - company: Alibaba
+        position: AI Product Manager
+        location: Hangzhou, China
+        start_date: Apr 2022
+        end_date: Jul 2023
+        highlights:
+          - Responsible for user-facing generative AI features, including one-click generation of detailed product descriptions, product images, and multilingual content.
+          - Designed and supported A/B tests to evaluate feature performance and optimize key metrics such as CTR, CVR, and overall user engagement.
+          - Contributed to the construction of an e-commerce knowledge graph to improve product understanding, search relevance, and personalized recommendation quality.
+
+      - company: Alibaba
+        position: Product Assistant (Intern)
+        location: Hangzhou, China
+        start_date: Jan 2022
+        end_date: Apr 2022
+
+      - company: Tencent
+        position: Product Assistant, Game & Metaverse (Intern)
+        location: Shenzhen, China
+        start_date: Sep 2021
+        end_date: Nov 2021
+
+      - company: Tencent
+        position: Strategy & Project Assistant, Timi Game Studio (Intern)
+        location: Shenzhen, China
+        start_date: Jun 2021
+        end_date: Sep 2021
+
+      - company: EY-Parthenon
+        position: Part-time Assistant (Intern)
+        location: China
+        start_date: Jul 2020
+        end_date: Sep 2020
+        highlights:
+          - Management consulting work focused on regional economic development, urbanization, and health care.
+
+      - company: Grameen Bank
+        position: Project Consultant
+        location: Ningbo, China
+        start_date: Oct 2019
+        end_date: Jul 2020
+        highlights:
+          - Core member of a consulting project team providing small unsecured loans to rural and low-income groups; conducted field research, data collection, and data analysis.
+
+      - company: University of Nottingham Ningbo China, Institute of Asia and Pacific Studies
+        position: Research Assistant & Intern Team Leader (Intern)
+        location: Ningbo, China
+        start_date: Apr 2017
+        end_date: Jun 2020
+        highlights:
+          - Participated in research on consumer psychology and behavioral economics, immigration policy, and gender balance; managed 15 interns as intern team leader.
+
+      - company: Roland Berger
+        position: Part-time Assistant (Intern)
+        location: China
+        start_date: Apr 2020
+        end_date: May 2020
+        highlights:
+          - Assisted strategy projects: estimated potential market capacity, investigated competitors, and conducted statistical analysis using Stata.
+
+      - company: Marsh
+        position: Management Trainee
+        location: Beijing, China
+        start_date: Jun 2017
+        end_date: Sep 2017
+        highlights:
+          - Learned business processes of the consulting industry (risk management and insurance brokerage); participated in market research and data analysis.
