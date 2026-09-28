@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in Cognition and Cognitive Neuroscience at the University of Massachusetts Amherst, advised by Prof. [Joonkoo Park](https://www.codeneuro.net/). My committee members are Prof. Kyle Cave and Prof. Lisa Sanders. My broad interest lies in how people transform perceptual signals into abstract representations, and how these representations are evaluated and used to guide judgments and decisions. Specifically, I am interested in:
+I am a PhD student in Cognition and Cognitive Neuroscience at the University of Massachusetts Amherst, advised by Prof. **Joonkoo Park** of the [Cognitive & Developmental Neuroscience Lab](https://www.codeneuro.net/). My committee members are Prof. Kyle Cave and Prof. Lisa Sanders. My broad interest lies in how people transform perceptual signals into abstract representations, and how these representations are evaluated and used to guide judgments and decisions. Specifically, I am interested in:
 
 1. **Perceptual representation:** How do people extract and represent visual and numerical information?
 2. **Evidence integration:** How are perceptual representations combined with contextual, symbolic, or externally provided information to form judgments?

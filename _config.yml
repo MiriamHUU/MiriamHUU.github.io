@@ -4,12 +4,11 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Shimin
-middle_name: (Miriam)
 last_name: Hu
 contact_note: >
   The best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Shimin (Miriam) Hu, PhD student in Cognition and Cognitive Neuroscience at the University of Massachusetts Amherst.
+  Personal website of Shimin Hu, PhD student in Cognition and Cognitive Neuroscience at the University of Massachusetts Amherst.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
