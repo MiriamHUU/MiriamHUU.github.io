@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: smaller;">Department of Psychological and Brain Sciences</p>
-    <p style="font-size: smaller;">University of Massachusetts Amherst</p>
-    <p style="font-size: smaller;">Amherst, MA</p>
+    <p style="font-size: x-small;">Department of Psychological and Brain Sciences</p>
+    <p style="font-size: x-small;">University of Massachusetts Amherst</p>
+    <p style="font-size: x-small;">Amherst, MA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
