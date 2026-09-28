@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Cognition and Cognitive Neuroscience, <a href='https://www.umass.edu/'>University of Massachusetts Amherst</a>
+subtitle: PhD Student in <b>Cognition and Cognitive Neuroscience</b>, <a href='https://www.umass.edu/'>University of Massachusetts Amherst</a>
 
 profile:
   align: right
@@ -25,12 +25,8 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in Cognition and Cognitive Neuroscience at the University of Massachusetts Amherst, advised by Prof. **Joonkoo Park** of the [Cognitive & Developmental Neuroscience Lab](https://www.codeneuro.net/). My committee members are Prof. Kyle Cave and Prof. Lisa Sanders. My broad interest lies in how people transform perceptual signals into abstract representations, and how these representations are evaluated and used to guide judgments and decisions. Specifically, I am interested in:
+I am a PhD student in **Cognition and Cognitive Neuroscience** at the University of Massachusetts Amherst, advised by Prof. **Joonkoo Park** of the [Cognitive & Developmental Neuroscience Lab](https://www.codeneuro.net/). My committee members are Prof. **Kyle Cave** and Prof. **Lisa Sanders**.
 
-1. **Perceptual representation:** How do people extract and represent visual and numerical information?
-2. **Evidence integration:** How are perceptual representations combined with contextual, symbolic, or externally provided information to form judgments?
-3. **Decision-making under uncertainty:** How do biases, uncertainty, and external sources of information — including AI-generated recommendations and explanations — shape decisions and behavior?
+My research asks how people transform perceptual signals into abstract representations and use them to guide judgments and decisions. I study this through numerosity perception, combining behavioral experiments and EEG, with a broader interest in how uncertainty, biases, and AI-generated information shape decisions.
 
-I currently study these questions using numerosity perception as a model system, combining behavioral experiments and EEG. Building on my previous exposure to AI-related work, I am also interested in computational approaches to modeling perceptual and decision processes.
-
-Before my PhD, I worked as an **AI Product Manager at Alibaba**, where I was responsible for user-facing generative AI features, designed and supported A/B tests, and contributed to an e-commerce knowledge graph. I hold a Master's in Behavioural Science from the **London School of Economics** and a Bachelor's in International Business Economics from the **University of Nottingham Ningbo China**.
+Before my PhD, I worked as an AI Product Manager at Alibaba. I hold a Master's in Behavioural Science from the London School of Economics and a Bachelor's in International Business Economics from the University of Nottingham Ningbo China.
