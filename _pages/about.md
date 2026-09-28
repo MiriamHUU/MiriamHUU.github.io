@@ -14,7 +14,7 @@ subtitle: PhD Student in Cognition and Cognitive Neuroscience, <a href='https://
 #     <p>University of Massachusetts Amherst</p>
 #     <p>Amherst, MA</p>
 
-selected_papers: false # no publications yet; set to true once papers are added
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
