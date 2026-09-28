@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Psychological and Brain Sciences</p>
-    <p>University of Massachusetts Amherst</p>
-    <p>Amherst, MA</p>
+    <p style="font-size: smaller;">Department of Psychological and Brain Sciences</p>
+    <p style="font-size: smaller;">University of Massachusetts Amherst</p>
+    <p style="font-size: smaller;">Amherst, MA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,4 +29,4 @@ I am a PhD student in **Cognition and Cognitive Neuroscience** at the University
 
 My research asks how people transform perceptual signals into abstract representations and use them to guide judgments and decisions. I study this through numerosity perception, combining behavioral experiments and EEG, with a broader interest in how uncertainty, biases, and AI-generated information shape decisions.
 
-Before my PhD, I worked as an AI Product Manager at Alibaba. I hold a Master's in Behavioural Science from the London School of Economics and a Bachelor's in International Business Economics from the University of Nottingham Ningbo China.
+Before my PhD, I worked as an AI Product Manager at Alibaba. I hold a Master's in **Behavioural Science** from the London School of Economics and a Bachelor's in **International Business Economics** from the University of Nottingham Ningbo China.
