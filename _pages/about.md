@@ -4,15 +4,14 @@ title: about
 permalink: /
 subtitle: PhD Student in Cognition and Cognitive Neuroscience, <a href='https://www.umass.edu/'>University of Massachusetts Amherst</a>
 
-# no profile picture yet — add assets/img/prof_pic.jpg and uncomment below to show one
-# profile:
-#   align: right
-#   image: prof_pic.jpg
-#   image_circular: false # crops the image to make it circular
-#   more_info: >
-#     <p>Department of Psychological and Brain Sciences</p>
-#     <p>University of Massachusetts Amherst</p>
-#     <p>Amherst, MA</p>
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Department of Psychological and Brain Sciences</p>
+    <p>University of Massachusetts Amherst</p>
+    <p>Amherst, MA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
