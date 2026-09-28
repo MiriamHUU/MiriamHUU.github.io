@@ -112,17 +112,7 @@ cv:
           - Learned business processes of the consulting industry (risk management and insurance brokerage); participated in market research and data analysis.
 
     Teaching:
-      - company: University of Massachusetts Amherst
-        position: Instructor, Junior Year Writing in Psychological and Brain Sciences
-        location: Amherst, MA, USA
-        highlights:
-          - Instructor of record for two semesters, teaching academic writing to classes of 20 undergraduate students each semester.
+      - bullet: "**Instructor, Junior Year Writing in Psychological and Brain Sciences**, University of Massachusetts Amherst, Amherst, MA, USA — instructor of record for two semesters, teaching academic writing to classes of 20 undergraduate students each semester."
 
     Presentations:
-      - company: Cognitive Neuroscience Society (CNS) 2025 Annual Meeting
-        position: Poster presentation
-        location: Boston, MA, USA
-        start_date: Mar 2025
-        end_date: Apr 2025
-        highlights:
-          - '"Neural investigation of color coherence in numerosity perception."'
+      - bullet: 'Poster, **"Neural investigation of color coherence in numerosity perception,"** Cognitive Neuroscience Society (CNS) 2025 Annual Meeting, Boston, MA, USA — Mar 2025.'
